@@ -1,0 +1,21 @@
+CustomerID,CustomerName,City,Country,Segment
+C001,John Smith,New York,USA,Corporate
+C002,Sarah Johnson,Los Angeles,USA,Consumer
+C003,Mike Brown,Chicago,USA,Corporate
+C004,Emily Davis,Houston,USA,Home Office
+C005,David Wilson,Boston,USA,Consumer
+C006,Lisa Anderson,Seattle,USA,Corporate
+C007,Robert Taylor,Miami,USA,Consumer
+C008,Jennifer White,Denver,USA,Home Office
+C009,William Martinez,Phoenix,USA,Corporate
+C010,Mary Garcia,San Diego,USA,Consumer
+C011,James Rodriguez,Dallas,USA,Home Office
+C012,Patricia Lee,Atlanta,USA,Corporate
+C013,Thomas Walker,Portland,USA,Consumer
+C014,Linda Hall,Philadelphia,USA,Corporate
+C015,Christopher Allen,San Francisco,USA,Consumer
+C016,Barbara Young,Austin,USA,Home Office
+C017,Daniel King,Detroit,USA,Corporate
+C018,Susan Wright,Minneapolis,USA,Consumer
+C019,Matthew Lopez,Tampa,USA,Home Office
+C020,Nancy Hill,Baltimore,USA,Corporate

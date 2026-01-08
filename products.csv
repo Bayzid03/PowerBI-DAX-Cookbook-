@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,SubCategory,Cost
+P001,Laptop Pro 15,Electronics,Computers,720.00
+P002,Smartphone X12,Electronics,Mobile Devices,480.00
+P003,Tablet Ultra,Electronics,Mobile Devices,560.00
+P004,4K Monitor,Electronics,Computer Accessories,360.00
+P005,Gaming Desktop,Electronics,Computers,1040.00
+P006,Wireless Headphones,Electronics,Audio,144.00
+P007,Bluetooth Speaker,Electronics,Audio,120.00
+P008,Webcam HD,Electronics,Computer Accessories,200.00
+P009,Desk Lamp LED,Furniture,Office Accessories,24.00
+P010,Office Chair Pro,Furniture,Seating,160.00
+P011,Standing Desk,Furniture,Desks,200.00
+P012,Notebook A4,Stationery,Writing,7.20
+P013,Pen Set Premium,Stationery,Writing,8.00
+P014,Sticky Notes Pack,Stationery,Organization,4.80
+P015,File Folders Box,Stationery,Organization,10.40
+P016,Stapler Heavy Duty,Office Supplies,Tools,5.60
+P017,Paper Clips Box,Office Supplies,Organization,12.00
+P018,Desk Organizer,Office Supplies,Organization,12.80
+P019,Ergonomic Mouse,Electronics,Computer Accessories,160.00
+P020,Keyboard Mechanical,Electronics,Computer Accessories,72.00
